@@ -24,8 +24,13 @@ conda install pytorch torchvision cudatoolkit
 ```
 
 ## Quick Start
+To train SkyLink model, you can run the following command:
 ```
 python train_universityMM.py
+```
+To test SkyLink model with test-time augmentation (TTA) in the competition, you can also run the command:
+```
+python test_mm_tta.py
 ```
 
 ## Contact
