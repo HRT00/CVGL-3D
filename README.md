@@ -32,7 +32,7 @@ To test SkyLink model with test-time augmentation (TTA) in the competition, you 
 ```
 python test_mm_tta.py
 ```
-We reconstruct the point-clouds from multi-view UAV images by VGGT model, you can refer to \url{https://github.com/facebookresearch/vggt}.
+We reconstruct the point-clouds from multi-view UAV images by VGGT model, you can refer to https://github.com/facebookresearch/vggt.
 
 ## Acknowledgements
 
