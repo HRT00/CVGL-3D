@@ -38,12 +38,14 @@ We reconstruct the point-clouds from multi-view UAV images by VGGT model, you ca
 
 ## Contact
 If you find our work useful, please consider citing:
+```bibtex
 @article{zhang2025skylink,
   title={SkyLink: Unifying Street-Satellite Geo-Localization via UAV-Mediated 3D Scene Alignment},
   author={Zhang, Hongyang and Liu, Yinhao and Kuang, Zhenyu},
   journal={arXiv preprint arXiv:2509.24783},
   year={2025}
 }
+```
 
 ## Contact
 If you have any question about this project, please feel free to contact hyzhang@stu.xmu.edu.cn.
