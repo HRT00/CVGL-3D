@@ -6,6 +6,8 @@ Official implementation of 2025 ACM'MM UAV Challenging paper SkyLink (https://co
 
 🚩 **2025.07.24: Our paper has been accepted by ACM'MM 2025 UAVM. The codes for training has been released!**
 
+🚩 **2025.11.03: Our paper has been publisd! The link is: https://dl.acm.org/doi/10.1145/3728482.3757392** 
+
 ## Description 📜
 This research mainly focus on ground-satellite geo-localization. We aims at robust feature retrieval under viewpoint variation and propose the novel SkyLink method. Meanwhile, we integrate the 3D scene information constructed from multi-scale UAV images as a bridge between street and satellite viewpoints, and perform feature alignment through self-supervised and cross-view contrastive learning.
 
