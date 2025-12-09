@@ -38,7 +38,7 @@ We reconstruct the point-clouds from multi-view UAV images by VGGT model, you ca
 
 ## Acknowledgements
 
-## Contact
+## Cite
 If you find our work useful, please consider citing:
 ```bibtex
 @article{zhang2025skylink,
